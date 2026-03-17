@@ -1,0 +1,21 @@
+SUPPLIER AGREEMENT NO. SA-2024-1047
+
+This Supply Agreement is entered into as of July 12, 2024, by and between ProServe Technologies Inc. ("Supplier") and EastCoast Financial Group LLC ("Buyer").
+
+1. TERM: This Agreement has an initial term of 24 months with two optional 12-month renewal periods exercisable by Buyer upon 30 days' written notice before expiration.
+
+2. PAYMENT TERMS: Buyer shall pay monthly invoices within Net 30 days. All pricing is fixed for the initial term. Supplier may adjust pricing by up to 5% upon each renewal. Payments shall be made by ACH transfer.
+
+3. LIABILITY: Each party's total liability shall not exceed the greater of $1,000,000 or the total fees paid in the preceding 24 months. Exclusions apply for data breach indemnification.
+
+4. TERMINATION: Either party may terminate for material breach upon 30 days' written notice with a 15-day cure period. Buyer may terminate for convenience upon 60 days' notice and payment of fees due through the notice period.
+
+5. CONFIDENTIALITY: Each party shall keep proprietary information confidential for 5 years after termination. Information shared with subcontractors requires equivalent non-disclosure agreements.
+
+6. INTELLECTUAL PROPERTY: All custom deliverables become Buyer's property upon payment. Supplier retains ownership of generalized tools, templates, and frameworks developed during engagement.
+
+7. DISPUTE RESOLUTION: Parties shall first attempt resolution through escalation to senior management. Unresolved disputes proceed to mediation, then binding arbitration in Boston, Massachusetts.
+
+8. FORCE MAJEURE: Force majeure events excuse performance for up to 60 days. The affected party bears the burden of proving the event was beyond its reasonable control.
+
+9. GOVERNING LAW: This Agreement shall be governed by the laws of the Commonwealth of Massachusetts.

@@ -1,0 +1,21 @@
+SUPPLIER AGREEMENT NO. SA-2024-0825
+
+This Supply Agreement is entered into as of April 5, 2024, by and between Summit Materials Inc. ("Supplier") and Coastal Dynamics Corp. ("Buyer").
+
+1. TERM: This Agreement has an initial term of 60 months commencing on the Effective Date. Neither party may terminate early except as provided in Section 4.
+
+2. PAYMENT TERMS: Buyer shall pay 50% upfront upon execution and the remaining 50% within Net 30 days of delivery. Disputed amounts must be raised within 15 days of invoice receipt. Late fees accrue at 1.0% per month.
+
+3. LIABILITY: Each party's maximum liability is limited to $750,000. Consequential damages are excluded except for breaches of confidentiality or intellectual property infringement.
+
+4. TERMINATION: This Agreement may only be terminated for material breach after 60 days' written notice and a 30-day cure period. There is no termination-for-convenience right.
+
+5. CONFIDENTIALITY: All proprietary information shall remain confidential for 4 years following disclosure. Each party shall use the same degree of care as it uses for its own confidential information, but no less than reasonable care.
+
+6. INTELLECTUAL PROPERTY: Intellectual property in all work product shall vest in Supplier until full payment, at which point ownership transfers to Buyer automatically.
+
+7. DISPUTE RESOLUTION: Disputes shall be submitted to mediation before a mutually agreed mediator. If mediation fails within 60 days, either party may commence litigation in federal court.
+
+8. FORCE MAJEURE: Obligations are suspended during force majeure events. If the event persists beyond 120 days, either party may terminate upon written notice without further liability.
+
+9. GOVERNING LAW: This Agreement shall be governed by the laws of the State of Texas.

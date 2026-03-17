@@ -1,0 +1,21 @@
+SUPPLIER AGREEMENT NO. SA-2024-0582
+
+This Supply Agreement is entered into as of June 1, 2024, by and between Pinnacle Industries Ltd. ("Supplier") and NovaCorp Holdings Inc. ("Buyer").
+
+1. TERM: This Agreement shall commence on the Effective Date and continue for a period of 24 months, with automatic renewal for successive 12-month periods unless either party provides 90 days' notice of non-renewal.
+
+2. PAYMENT TERMS: Buyer shall pay all undisputed invoices within Net 60 days of receipt. A 2% early payment discount is available for invoices paid within 10 days. Late payments shall accrue interest at 1.0% per month.
+
+3. LIABILITY: Each party's total aggregate liability under this Agreement shall not exceed $500,000. Neither party shall be liable for indirect, consequential, or incidental damages except in cases of gross negligence.
+
+4. TERMINATION: Either party may terminate this Agreement for cause upon 45 days' written notice and a 15-day cure period. There is no termination-for-convenience provision.
+
+5. CONFIDENTIALITY: Both parties shall treat all proprietary information as strictly confidential for 5 years after disclosure. Disclosure to third parties requires prior written consent.
+
+6. INTELLECTUAL PROPERTY: Supplier retains all pre-existing intellectual property. Work product created specifically for Buyer shall be jointly owned by both parties.
+
+7. DISPUTE RESOLUTION: Disputes shall be resolved through binding arbitration administered by JAMS in New York, New York. Each party shall bear its own costs.
+
+8. FORCE MAJEURE: Performance obligations are suspended during force majeure events lasting up to 90 days. If the event exceeds 90 days, either party may terminate without liability.
+
+9. GOVERNING LAW: This Agreement shall be governed by the laws of the State of New York.

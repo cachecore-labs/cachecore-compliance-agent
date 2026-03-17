@@ -1,0 +1,21 @@
+SUPPLIER AGREEMENT NO. SA-2024-0714
+
+This Supply Agreement is entered into as of September 20, 2024, by and between Vanguard Logistics Corp. ("Supplier") and Meridian Tech Group Inc. ("Buyer").
+
+1. TERM: This Agreement shall be effective for 12 months from the Effective Date, with automatic renewal for additional 12-month terms unless terminated with 60 days' prior notice.
+
+2. PAYMENT TERMS: All invoices are due upon receipt. Buyer shall remit payment within Net 15 days. Late payments shall incur a penalty of 2.0% per month compounded monthly.
+
+3. LIABILITY: Total liability for each party is limited to $2,000,000 per occurrence and $5,000,000 in the aggregate. This cap does not apply to indemnification obligations or breaches of confidentiality.
+
+4. TERMINATION: Either party may terminate for convenience upon 30 days' prior written notice with no penalty. Termination for material breach requires 14 days' written notice; the breaching party has 10 days to cure.
+
+5. CONFIDENTIALITY: Each party agrees to maintain confidentiality of proprietary information indefinitely. Return or destruction of confidential materials is required within 30 days of termination.
+
+6. INTELLECTUAL PROPERTY: Buyer shall own all intellectual property rights in deliverables. Supplier retains rights to its proprietary tools and methodologies used in performance.
+
+7. DISPUTE RESOLUTION: All disputes shall be resolved by binding arbitration in Chicago, Illinois, under AAA Commercial Arbitration Rules. The arbitrator's decision shall be final and non-appealable.
+
+8. FORCE MAJEURE: Neither party is liable for delays caused by circumstances beyond reasonable control. The affected party must mitigate damages and resume performance promptly.
+
+9. GOVERNING LAW: This Agreement shall be governed by the laws of the State of Illinois.

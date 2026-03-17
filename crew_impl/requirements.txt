@@ -1,0 +1,7 @@
+openai>=2.0.0
+httpx>=0.25.0
+crewai>=0.80.0
+protobuf>=6.31.1
+PyJWT>=2.8.0
+# Install cachecore from local source:
+#   pip install -e /path/to/cachecore/client/cachecore-python

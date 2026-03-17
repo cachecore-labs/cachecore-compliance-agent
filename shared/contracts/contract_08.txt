@@ -1,0 +1,21 @@
+SUPPLIER AGREEMENT NO. SA-2024-1158
+
+This Supply Agreement is entered into as of November 3, 2024, by and between Keystone Services Ltd. ("Supplier") and Western Pacific Holdings Corp. ("Buyer").
+
+1. TERM: This Agreement shall remain in effect for 36 months. The Agreement may be renewed by mutual written consent for additional one-year periods.
+
+2. PAYMENT TERMS: Buyer shall make quarterly advance payments due on the first business day of each quarter. Each quarterly payment equals 25% of the annual contract value. Overdue amounts accrue interest at the prime rate plus 2%.
+
+3. LIABILITY: Neither party's aggregate liability shall exceed $3,000,000. The limitation of liability does not apply to obligations arising from intellectual property indemnification or intentional misconduct.
+
+4. TERMINATION: Buyer may terminate for convenience at any time upon 90 days' written notice. Supplier may terminate only for cause. Cause includes non-payment for 60 consecutive days.
+
+5. CONFIDENTIALITY: All non-public information exchanged under this Agreement shall be treated as confidential. Obligations survive for 7 years after the date of disclosure regardless of termination.
+
+6. INTELLECTUAL PROPERTY: Supplier assigns to Buyer all rights, title, and interest in deliverables including patents, copyrights, and trade secrets. Supplier waives moral rights to the fullest extent permitted by law.
+
+7. DISPUTE RESOLUTION: Any controversy shall be resolved exclusively by arbitration in Seattle, Washington under JAMS Comprehensive Arbitration Rules. Discovery shall be limited to document requests.
+
+8. FORCE MAJEURE: Neither party shall be liable for failure to perform due to events including but not limited to earthquakes, floods, government actions, or cyberattacks. Notice must be given within 48 hours.
+
+9. GOVERNING LAW: This Agreement shall be governed by the laws of the State of Washington.

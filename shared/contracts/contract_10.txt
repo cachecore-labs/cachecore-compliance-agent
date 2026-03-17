@@ -1,0 +1,21 @@
+SUPPLIER AGREEMENT NO. SA-2024-1370
+
+This Supply Agreement is entered into as of October 7, 2024, by and between Horizon Fulfillment Corp. ("Supplier") and SunBelt Retail Group Inc. ("Buyer").
+
+1. TERM: This Agreement is effective for 24 months from the Effective Date. Buyer may extend the term for one additional 24-month period by providing written notice at least 60 days before expiration.
+
+2. PAYMENT TERMS: Buyer shall pay all invoices within Net 30 days of receipt. Buyer may offset credits owed by Supplier against amounts due. Supplier shall not suspend services for invoices less than 30 days past due.
+
+3. LIABILITY: Each party's total aggregate liability under this Agreement shall not exceed $1,000,000 or the total contract value, whichever is greater. Exclusions apply to breaches of data protection obligations.
+
+4. TERMINATION: Either party may terminate for material breach upon 30 days' written notice with a 15-day cure period. Buyer may terminate for convenience upon 45 days' notice without penalty or early termination fee.
+
+5. CONFIDENTIALITY: All proprietary information remains confidential for 3 years after termination. Neither party shall use confidential information for any purpose other than performing obligations under this Agreement.
+
+6. INTELLECTUAL PROPERTY: Buyer owns all custom work product. Supplier retains ownership of its pre-existing tools and grants Buyer a perpetual, irrevocable license to use any Supplier IP embedded in deliverables.
+
+7. DISPUTE RESOLUTION: Disputes shall be resolved through a tiered process: first negotiation, then mediation, then binding arbitration in Atlanta, Georgia under AAA rules.
+
+8. FORCE MAJEURE: Force majeure events suspend obligations for up to 180 days. If performance remains impossible after 180 days, either party may terminate this Agreement without further liability to the other.
+
+9. GOVERNING LAW: This Agreement shall be governed by the laws of the State of Georgia.
