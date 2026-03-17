@@ -49,6 +49,20 @@ All three use the **CacheCore Python client** (`cachecore` package) for header i
 
 **Why CrewAI hit rate is lower:** CrewAI's parallel execution model makes the seeding window less predictable than vanilla's explicit `await` + sleep barrier, so some questions are dispatched before the seed cache is warm. This is a framework orchestration difference, not a CacheCore issue.
 
+## Sequential vs Parallel execution
+
+Both runs started from a cold cache (Redis flushed to 0 keys before each). The numbers below are from the vanilla asyncio implementation.
+
+| Metric              | Sequential         | Parallel           | Improvement              |
+|---------------------|--------------------|--------------------|--------------------------|
+| Total latency       | 46.8s              | 245.6s             | 5.2× faster (sequential) |
+| Cache hit rate      | 77.5%              | 67.5%              | +10 pp (sequential)      |
+| L2 HITs             | 62                 | 54                 | —                        |
+| LLM calls avoided   | 62                 | 54                 | —                        |
+| Est. tokens saved   | ~28,669            | ~24,814            | —                        |
+
+Sequential mode is faster and shows higher cache hit rate in this local setup for two reasons: agents don’t race the cache seeding phase (18 misses vs 26), and without embedding service contention, L2 cache hits resolve in 150-500ms instead of 2-5s. Parallel mode’s advantage is not wall-clock time on a single machine — it is throughput at scale. When contracts arrive in independent batches that cannot wait for each other, parallel mode processes all 10 simultaneously. In production with a horizontally scaled embedding service, parallel mode is the correct choice when you need to process large volumes concurrently rather than optimise per-query latency. For parallel workloads with 5+ concurrent agents, the embedding service requires at least 4 workers (set in `code/docker/Dockerfile.embedding`) before parallel execution becomes viable.
+
 ## Bonus finding — intra-agent L2 hits
 
 In the vanilla run, agent 1 produced 1 MISS on Q1 then 7 consecutive L2 HITs on Q2–Q8 within the same contract. The 8 compliance questions are semantically similar enough that once Q1 is cached, every subsequent question from the same agent hits L2 without a round-trip to the model. This maps to a real production pattern: an agent reasoning through a document by asking a series of related questions progressively benefits from its own earlier cache entries within a single run.
